@@ -1,6 +1,8 @@
-<!-- Minecraft Animated Header -->
+<!-- Minecraft Badge Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Minecraftia&size=32&duration=2500&pause=500&color=3CB043&center=true&vCenter=true&width=700&lines=Welcome+to+My+World;Crafting+Code+Like+Blocks;Leveling+Up+Every+Day"/>
+  ![Welcome Badge](https://img.shields.io/badge/Welcome-to_My_World-3CB043?style=for-the-badge&logo=minecraft)
+  ![Coder Badge](https://img.shields.io/badge/Crafting_Code_like_Blocks-8B4513?style=for-the-badge&logo=visual-studio-code)
+  ![Level Up Badge](https://img.shields.io/badge/Leveling_Up_Every_Day-FFD700?style=for-the-badge&logo=github)
 </p>
 
 <!-- Minecraft Block Divider -->
