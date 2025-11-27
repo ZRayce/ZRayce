@@ -1,11 +1,3 @@
-<!-- Minecraft Badge Header -->
 <p align="center">
-  ![Welcome Badge](https://img.shields.io/badge/Welcome-to_My_World-3CB043?style=for-the-badge&logo=minecraft)
-  ![Coder Badge](https://img.shields.io/badge/Crafting_Code_like_Blocks-8B4513?style=for-the-badge&logo=visual-studio-code)
-  ![Level Up Badge](https://img.shields.io/badge/Leveling_Up_Every_Day-FFD700?style=for-the-badge&logo=github)
-</p>
-
-<!-- Minecraft Block Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/grass-block.png" width="100%"/>
+  <img src="https://www.google.com/imgres?q=Minecraft%20background%20with%20shaders%20aesthetic%20&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3654244881284760169&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FDK2fF2nRRCx%2F&docid=KPKLqwaKUlT2hM&tbnid=lBMZxPo3ArJ0UM&vet=12ahUKEwiukr3kwJKRAxWjd_UHHedwBiU4ChAzegQIBxAA..i&w=1080&h=1080&hcb=2&ved=2ahUKEwiukr3kwJKRAxWjd_UHHedwBiU4ChAzegQIBxAA" width="100%"/>
 </p>
