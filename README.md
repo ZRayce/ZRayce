@@ -3,5 +3,5 @@
 </p>
 
 <p allign="center">
-  <img src="LaptopSS.gif" width="300"/>
+  <img src="LaptopSS.gif" width="220"/>
 </p>
