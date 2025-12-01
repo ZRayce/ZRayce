@@ -9,5 +9,9 @@
 </p>
 
 <h1>Hello</h1>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZRayce&theme=green_nur&hide_border=true&background=00000000&ring=3CB043&fire=3CB043&currStreakLabel=3CB043)](https://git.io/streak-stats)
+<!-- Minecraft Streak Panel -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ZRayce&hide_border=true&background=0D1117&ring=3CB043&fire=3CB043&sideNums=3CB043&currStreakLabel=3CB043&sideLabels=3CB043&dates=808080"/>
+  </a>
+</p>
