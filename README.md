@@ -5,7 +5,8 @@
 <p allign="center">
   <img src="LaptopSS.gif" width="200"/>
   <img src="ChickenJockey.gif" width="200"/>
-  
+  <img src="" width="200"/>
+  <img src="" width="200"/>
 </p>
 
 
