@@ -9,6 +9,6 @@
   <img src="" width="200"/>
 </p>
 
-shshshs
+<h3> Welcome I am Rayce BSIT Student</h3>
 
 
