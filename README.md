@@ -10,5 +10,6 @@
 </p>
 
 <h3> Welcome I am Rayce BSIT Student</h3>
+<button>SKILLS</button>
 
 
