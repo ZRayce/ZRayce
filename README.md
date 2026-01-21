@@ -1,5 +1,5 @@
 <!-----KURUMI BANNER ----->
-<img src="assets/" alt="" width="100%" />
+<img src="assets/Wallpapers! ^^.jpg" alt="Wallpapers! ^^.jpg" width="100%" />
 
 ## Hi there 👋
 
