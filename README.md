@@ -1,3 +1,6 @@
+<!-----KURUMI BANNER ----->
+<img src="assets/" alt="" width="100%" />
+
 ## Hi there 👋
 
 <!--
