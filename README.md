@@ -1,5 +1,5 @@
 <!-----KURUMI BANNER ----->
-<img src="assets/Kurumi_Banner.jpg" alt="Kurumi Banner" width="100%" />
+<img src="Kurumi_Banner.jpg" alt="Kurumi Banner" width="100%" />
 <!-----KURUMI BANNER ----->
 
 
