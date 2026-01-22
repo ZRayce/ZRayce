@@ -14,6 +14,15 @@
   </p>
 </div>
 <!-----/ABOUT ME----->
+
+<!-----GITHUB STATISTICS----->
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZRayce&show_icons=true&theme=tokyonight&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="Rayce's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZRayce&theme=tokyonight&ring=8B0000&fire=8B0000&currStreakNum=ffffff" alt="Rayce's Streak" height="150" />
+</p>
+<!-----/GITHUB STATS----->
 <a href="mailto:zerorayce@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000" alt="Gmail"/>
 </a>
