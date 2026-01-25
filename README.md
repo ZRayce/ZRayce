@@ -66,7 +66,7 @@ Languages and Tools:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZRayce&show_icons=true&theme=tokyonight&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="Rayce's Stats" height="150" />
   
- <img src="https://streak-stats.demolab.com/?user=ZRayce&theme=tokyonight&ring=8B0000&fire=8B0000&currStreakNum=ffffff" alt="Rayce's Streak" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ZRayce&theme=tokyonight&ring=8B0000&fire=8B0000&currStreakNum=ffffff" alt="Rayce's Streak" height="150" />
 </p>
 
 <br/>
