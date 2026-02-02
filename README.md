@@ -1,75 +1,66 @@
-<!-----BANNER----->
 <div align="center">
-  <img src="Kurumi_Banner.jpg" alt="Kurumi Banner" width="100%" />
-</div>
-<!-----/BANNER----->
-
-<!-----SOCIALS----->
-<div align="center">
-  <a href="mailto:zerorayce@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/raycefillon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8B0000" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/rayce.fillon">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8B0000" alt="Instagram"/>
-  </a>
-</div>
-<!-----/SOCIALS----->
-<br/>
-
-<!-----ABOUT----->
-<div style="border: 2px solid #9B30FF; padding: 25px; border-radius: 15px; background-color: #1E1E2F; color: #FFFFFF; font-size: 16px; line-height: 1.6;">
-  <h2 style="font-size: 24px;">About Me</h2>
-  <p>
-    Hey! I’m <strong>Rayce</strong> - a curious BSIT 1st year student passionate about coding, web & app development 💻, cybersecurity 🛡️, AI/ML 🤖, game development 🎮, and (soon) law studies ⚖️.  
-    When I’m not tinkering with tech, you’ll find me gaming 🎮, exploring my beginner artist side 🎨, learning languages 🌏 (Russian, German, French, Japanese, Chinese, Korean), sleeping 😴, or enjoying all kinds of food 🍕🍔.  
-    Fun fact: I once tried playing the violin the other way round - the violin as the bow, the bow as the violin. Trust me, don’t ask why. 😂  
-    <br><br>
-    <em>“Learning everything, fearing nothing.”</em> - that’s my motto as I explore, create, and leave a spark even in the shadows.
-  </p>
-</div>
-<br/>
-<!-----/ABOUT----->
-
-<!-----LANGUAGES & TOOLS----->
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-Languages and Tools:
-🌐 Web Fundamentals & JavaScript
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-🖥️ C-Family & Core Systems
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-📱 Mobile & Frameworks
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-💾 Backend, Database & Cloud
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
-
-🤖 AI, Data & Hardware
-<p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
-
-🎨 Design & Tools
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-🛠️ Dev Ops & Utilities
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> </p>
-<br/>
-<!-----/LANGUAGE & TOOLS----->
-
-<!-----GITHUB STATISTICS----->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZRayce&show_icons=true&theme=tokyonight&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="Rayce's Stats" height="150" />
+  <img src="Kurumi_Banner.jpg" alt="Kurumi Banner" width="100%" style="border-radius: 15px;" />
   
-  <img src="https://streak-stats.demolab.com/?user=ZRayce&theme=tokyonight&ring=8B0000&fire=8B0000&currStreakNum=ffffff" alt="Rayce's Streak" height="150" />
+  <h1>Hey there, I'm Rayce! 👋</h1>
+  <p align="center">
+    <strong>BSIT Student | Aspiring Developer | Cybersecurity Enthusiast | Polyglot</strong>
+  </p>
+
+  <a href="mailto:zerorayce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/raycefillon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8B0000" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/rayce.fillon"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8B0000" alt="Instagram"/></a>
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3>✨ About Me</h3>
+      <p>
+        I’m a curious <strong>BSIT 1st year student</strong> with a drive to master the digital world. From building sleek web apps to diving deep into the ethics of law, I enjoy the intersection of logic and creativity. 
+      </p>
+      <ul>
+        <li>🛡️ <strong>Focus:</strong> Web Dev, Cybersecurity, & AI/ML.</li>
+        <li>⚖️ <strong>Future:</strong> Aspiring Law Student.</li>
+        <li>🌏 <strong>Languages:</strong> Japanese, Russian, German, French, Chinese, Korean (Learning).</li>
+        <li>🎨 <strong>Hobbies:</strong> Digital Art, Gaming, and unconventional violin playing.</li>
+      </ul>
+      <p align="center">
+        <i>"Learning everything, fearing nothing."</i>
+      </p>
+    </td>
+    <td width="40%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZRayce&layout=compact&theme=tokyonight&title_color=8B0000&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML5_CSS3_JS_TS-8B0000?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Languages-C_C++_C%23_Java_Python_Kotlin-8B0000?style=flat-square&logo=python" />
+  <br/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter_Dart_ReactNative-8B0000?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/Frameworks-React_Vue_Node.js_PHP-8B0000?style=flat-square&logo=react" />
+  <br/>
+  <img src="https://img.shields.io/badge/Data/AI-TensorFlow_PyTorch_MySQL_Firebase-8B0000?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Design-Figma_Photoshop_Illustrator_Unity-8B0000?style=flat-square&logo=figma" />
+</div>
+
+<br/>
+
+<h2 align="center">📊 Growth & Activity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZRayce&show_icons=true&theme=tokyonight&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ZRayce&theme=tokyonight&ring=8B0000&fire=8B0000&currStreakNum=ffffff&hide_border=true" height="150" />
 </p>
 
 <br/>
-<!-----/GITHUB STATISTICS----->
 
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%"/>
+</p>
