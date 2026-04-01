@@ -64,6 +64,8 @@ I'm a **1st Year BSIT student** navigating the depths of code and logic. My jour
 </p>
 <p> Hi</p>
 
+suhusufuasufhsuf uishuhruhuarhsirsrs
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZRayce&layout=compact&theme=tokyonight&title_color=8B0000&hide_border=true" alt="Top Languages" />
 </div>
