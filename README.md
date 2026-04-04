@@ -65,7 +65,9 @@ I'm a **1st Year BSIT student** navigating the depths of code and logic. My jour
 <p> Hi</p>
 
 suhusufuasufhsuf uishuhruhuarhsirsrsbbbbbjbjbj
-yygygyygygy
+yygygyygygyjbjbhjgghkghgkhgvhvihyifiygfhjghg hghghghghgyugyhdtdytdfiygghfghyyigygyyguyfhhgjkgyugrfuguguguguttgf6fvgfgdgfyufufiygy  vyghgygygyigygyg hghgygigujguig ouyh
+ihguuiuiyuk uyuyo8uhouh oiiu 
+ u8yoiyoiyioyoiypiuoi9puoiuoi8uoi oiuoi yioyioyoiyioyoitt oiyoit o rtlit o
 yygygygygy
 
 <div align="center">
