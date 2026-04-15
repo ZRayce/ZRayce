@@ -62,20 +62,10 @@ I'm a **1st Year BSIT student** navigating the depths of code and logic. My jour
   <img src="https://github-readme-stats.vercel.app/api?username=ZRayce&show_icons=true&theme=tokyonight&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=ZRayce&theme=tokyonight&ring=8B0000&fire=8B0000&currStreakNum=ffffff&hide_border=true" height="165" />
 </p>
-weweww
-ewewewe
-ewewewejhjhdjabsfjbfjdbasufb asjnsjdfsajfabsbdjbsfuhu hwuhuhuwhuhUHHSJHFU huh23uh5h3h602*&3uji3jjskjajisdj safisaijfij joi j awj ri3i2 i jio jijasiojaiojiojrkfjskljlkajs lkjfdlkas fkhaslifhakjsn mjnsjajslkjfdisjafipwqpihglkanscjlk ns f;jhdsofhwe;ohnf ;oi iHOIHFoiheo9uwfjlwhr2h30 y352y50972195p072525254256 hwhodhshaohuhusuhdsuhjcshjxkcuhruihd huhush udheuhohosh doheusioeisi eosudiedsuiufoieof iowiodhshhdhduhakjsdkajhd swjiojioerifidoofhsegFHHEHEFGSREGEDGERGEGRHETHBBYHBNJYHJGHYNwqeqweqweqweqweqweqweqweqweqweqwNGBJGJNGJG
-yygygygygyjhjwhjhjfehjfjejhfjhejfhjeffefdfjehfjehhfjfhefffjhjhjhjhjhjhjhjhhjhuyuyuFDHDFHDHDHDFH
 
-EGWGRBRBBGYHYHHGHTHsdseqweqwewqeqweqwehd<p> sjdisijifiasf</p> <button>Press me</button>
-GTGTBGTGTGTFGqeqweqweqweqweqweqwewqereerewrwerwerwerwerwr
-GTGTGTGTGTTeqwewqeqweqweqweeererr
-<strong>aDdd</strong> <p>PPPP</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZRayce&layout=compact&theme=tokyonight&title_color=8B0000&hide_border=true" alt="Top Languages" />
 </div>
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%"/>
