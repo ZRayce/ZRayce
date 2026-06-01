@@ -56,16 +56,11 @@ I'm a **1st Year BSIT student** navigating the depths of code and logic. My jour
 </p>
 
 ---
-gygygyygyggyugyugygyugyugyugyguyguyguygyugyuguyguy
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZRayce&show_icons=true&theme=tokyonight&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=ZRayce&theme=tokyonight&ring=8B0000&fire=8B0000&currStreakNum=ffffff&hide_border=true" height="165" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZRayce&layout=compact&theme=tokyonight&title_color=8B0000&hide_border=true" alt="Top Languages" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%"/>
