@@ -64,3 +64,4 @@ I'm a **1st Year BSIT student** navigating the depths of code and logic. My jour
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%"/>
 </p>
+---
